@@ -1,0 +1,86 @@
+{
+  "delhi": {
+    "monuments": [
+      {
+        "name": "Hamayun's Tomb",
+        "src": "../delhi/hamayun.jpg",
+        "alt": "Hamayun's Tomb",
+        "description": "Exemplifying the formative stage of the Mughal structural style, Humayun's Tomb stands as a landmark in the development of Mughal architecture, and also represents the earliest extant specimen of the Mughal scheme of the garden tomb, with causeways and channels."
+      },
+      {
+        "name": "Jama Masjid",
+        "src": "../delhi/jama-masjid.jpg",
+        "alt": "Jama Masjid",
+        "description": "Jama Masjid and its courtyard stand on an outcropping more than 30 steps higher than the street, giving the mosque a commanding view of the surrounding area. The longer name, Masjid-i Jahān Numā, translates to “world-reflecting mosque” or “world-displaying mosque.” "
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Disneyland Paris",
+        "src": "../delhi/lotus.jpg",
+        "alt": "Disneyland Paris",
+        "description": "Disneyland Paris is a theme park resort in Marne-la-Vallée, France, known for its fairy tale-themed attractions."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Louvre Museum",
+        "src": "../delhi/india-gate.jpg",
+        "alt": "Louvre Museum",
+        "description": "The Louvre is the world's largest art museum and a historic monument in Paris, France."
+      }
+    ]
+  },
+  "tokyo": {
+    "monuments": [
+      {
+        "name": "Tokyo Tower",
+        "src": "../imgs/tokyo.jpg",
+        "alt": "Tokyo Tower",
+        "description": "Tokyo Tower is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Tokyo Disneyland",
+        "src": "../imgs/tokyo.jpg",
+        "alt": "Tokyo Disneyland",
+        "description": "Tokyo Disneyland is a theme park located in Urayasu, Chiba, Japan, and is part of the Tokyo Disney Resort."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Tokyo National Museum",
+        "src": "../imgs/tokyo.jpg",
+        "alt": "Tokyo National Museum",
+        "description": "The Tokyo National Museum is Japan's oldest and largest museum, specializing in traditional Japanese art and artifacts."
+      }
+    ]
+  },
+  "new york": {
+    "monuments": [
+      {
+        "name": "Statue of Liberty",
+        "src": "../imgs/switzerland.avif",
+        "alt": "Statue of Liberty",
+        "description": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Coney Island",
+        "src": "../imgs/switzerland.avif",
+        "alt": "Coney Island",
+        "description": "Coney Island is a neighborhood in Brooklyn, New York City, known for its amusement parks and beach."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Metropolitan Museum of Art",
+        "src": "../imgs/switzerland.avif",
+        "alt": "Metropolitan Museum of Art",
+        "description": "The Metropolitan Museum of Art is one of the largest and most prestigious art museums in the world, located on the eastern edge of Central Park."
+      }
+    ]
+  }
+}
