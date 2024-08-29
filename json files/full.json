@@ -1,0 +1,698 @@
+{
+  "delhi": {
+    "monuments": [
+      {
+        "name": "Humayun's Tomb",
+        "src": "../delhi/hamayun.jpg",
+        "alt": "Humayun's Tomb",
+        "description": "Exemplifying the formative stage of Mughal architecture, Humayun's Tomb represents the earliest extant specimen of the Mughal garden tomb."
+      },
+      {
+        "name": "Jama Masjid",
+        "src": "../delhi/jama-masjid.jpg",
+        "alt": "Jama Masjid",
+        "description": "One of the largest mosques in India, Jama Masjid stands as an iconic landmark in Old Delhi."
+      },
+      {
+        "name": "Red Fort",
+        "src": "../delhi/red-fort.jpg",
+        "alt": "Red Fort",
+        "description": "Red Fort, a UNESCO World Heritage site, served as the main residence of the Mughal emperors for nearly 200 years."
+      },
+      {
+        "name": "Qutub Minar",
+        "src": "../delhi/qutub-minar.jpg",
+        "alt": "Qutub Minar",
+        "description": "Qutub Minar, the tallest brick minaret in the world, is an iconic example of Indo-Islamic architecture."
+      },
+      {
+        "name": "India Gate",
+        "src": "../delhi/india-gate.jpg",
+        "alt": "India Gate",
+        "description": "India Gate is a war memorial located astride the Rajpath, and it commemorates the soldiers who died during World War I."
+      },
+      {
+        "name": "Lotus Temple",
+        "src": "../delhi/lotus.jpg",
+        "alt": "Lotus Temple",
+        "description": "Known for its flowerlike shape, Lotus Temple is a prominent Bahá'í House of Worship in Delhi."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Adventure Island",
+        "src": "../delhi/adventure-island.jpg",
+        "alt": "Adventure Island",
+        "description": "Adventure Island is a popular amusement park in Delhi offering rides and attractions for all ages."
+      },
+      {
+        "name": "Worlds of Wonder",
+        "src": "../delhi/wow.jpg",
+        "alt": "Worlds of Wonder",
+        "description": "Worlds of Wonder is one of the largest amusement and water parks in Delhi NCR."
+      },
+      {
+        "name": "Fun N Food Village",
+        "src": "../delhi/fun-n-food.jpg",
+        "alt": "Fun N Food Village",
+        "description": "Fun N Food Village offers a combination of amusement rides and a water park, making it a popular destination for families."
+      },
+      {
+        "name": "Delhi Eye",
+        "src": "../delhi/delhi-eye.jpg",
+        "alt": "Delhi Eye",
+        "description": "Delhi Eye is a giant Ferris wheel located in Kalindi Kunj, offering panoramic views of Delhi."
+      },
+      {
+        "name": "Appu Ghar",
+        "src": "../delhi/appu-ghar.jpg",
+        "alt": "Appu Ghar",
+        "description": "Appu Ghar is an iconic amusement park in Delhi, popular among children and families."
+      },
+      {
+        "name": "Snow World",
+        "src": "../delhi/snow-world.jpg",
+        "alt": "Snow World",
+        "description": "Snow World offers a snowy wonderland with various activities such as skiing, sledding, and snowball fights."
+      }
+    ],
+    "museums": [
+      {
+        "name": "National Museum",
+        "src": "../delhi/national-museum.jpg",
+        "alt": "National Museum",
+        "description": "The National Museum is one of the largest museums in India, featuring collections of artifacts dating back to the Indus Valley Civilization."
+      },
+      {
+        "name": "National Rail Museum",
+        "src": "../delhi/rail-museum.jpg",
+        "alt": "National Rail Museum",
+        "description": "The National Rail Museum showcases the rich heritage of Indian Railways with a display of locomotives and carriages."
+      },
+      {
+        "name": "Nehru Planetarium",
+        "src": "../delhi/nehru-planetarium.jpg",
+        "alt": "Nehru Planetarium",
+        "description": "Nehru Planetarium is a center for astronomical education and is popular among students and space enthusiasts."
+      },
+      {
+        "name": "Gandhi Smriti",
+        "src": "../delhi/gandhi-smriti.jpg",
+        "alt": "Gandhi Smriti",
+        "description": "Gandhi Smriti is a museum dedicated to Mahatma Gandhi, showcasing his life and teachings."
+      },
+      {
+        "name": "Indira Gandhi Memorial Museum",
+        "src": "../delhi/indira-museum.jpg",
+        "alt": "Indira Gandhi Memorial Museum",
+        "description": "This museum is housed in the former residence of Indira Gandhi and features exhibits on her life and political career."
+      },
+      {
+        "name": "Crafts Museum",
+        "src": "../delhi/crafts-museum.jpg",
+        "alt": "Crafts Museum",
+        "description": "The Crafts Museum in Delhi showcases India's rich tradition of handicrafts, textiles, and folk art."
+      }
+    ]
+  },
+  "maharashtra": {
+    "monuments": [
+      {
+        "name": "Gateway of India",
+        "src": "../maharashtra/gateway-of-india.jpg",
+        "alt": "Gateway of India",
+        "description": "The Gateway of India is a 20th-century monument in Mumbai, and it is an iconic landmark in the city's history."
+      },
+      {
+        "name": "Ajanta Caves",
+        "src": "../maharashtra/ajanta-caves.jpg",
+        "alt": "Ajanta Caves",
+        "description": "The Ajanta Caves are a UNESCO World Heritage Site and consist of ancient rock-cut Buddhist caves dating back to the 2nd century BCE."
+      },
+      {
+        "name": "Ellora Caves",
+        "src": "../maharashtra/ellora-caves.jpg",
+        "alt": "Ellora Caves",
+        "description": "Ellora Caves are a UNESCO World Heritage Site and feature rock-cut architecture representing Buddhist, Hindu, and Jain temples."
+      },
+      {
+        "name": "Shaniwar Wada",
+        "src": "../maharashtra/shaniwar-wada.jpg",
+        "alt": "Shaniwar Wada",
+        "description": "Shaniwar Wada is a historic fortification in Pune that served as the seat of the Peshwas of the Maratha Empire."
+      },
+      {
+        "name": "Chhatrapati Shivaji Maharaj Terminus",
+        "src": "../maharashtra/cstm.jpg",
+        "alt": "Chhatrapati Shivaji Maharaj Terminus",
+        "description": "CST is a historic railway station in Mumbai and a UNESCO World Heritage Site, known for its Victorian Gothic architecture."
+      },
+      {
+        "name": "Raigad Fort",
+        "src": "../maharashtra/raigad-fort.jpg",
+        "alt": "Raigad Fort",
+        "description": "Raigad Fort is a hill fort that served as the capital of Chhatrapati Shivaji Maharaj's kingdom and is of great historical significance."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Imagicaa",
+        "src": "../maharashtra/imagicaa.jpg",
+        "alt": "Imagicaa",
+        "description": "Imagicaa is a popular amusement and theme park located near Mumbai and Pune, offering a wide range of rides and attractions."
+      },
+      {
+        "name": "EsselWorld",
+        "src": "../maharashtra/esselworld.jpg",
+        "alt": "EsselWorld",
+        "description": "EsselWorld is one of India's largest amusement parks, offering roller coasters, water rides, and entertainment for all ages."
+      },
+      {
+        "name": "Water Kingdom",
+        "src": "../maharashtra/water-kingdom.jpg",
+        "alt": "Water Kingdom",
+        "description": "Water Kingdom, adjacent to EsselWorld, is one of Asia's largest water parks with thrilling water slides and wave pools."
+      },
+      {
+        "name": "Adlabs Aquamagica",
+        "src": "../maharashtra/aquamagica.jpg",
+        "alt": "Adlabs Aquamagica",
+        "description": "Aquamagica is a water park offering a variety of water slides and attractions, perfect for a family day out."
+      },
+      {
+        "name": "Tikuji-ni-Wadi",
+        "src": "../maharashtra/tikuji-ni-wadi.jpg",
+        "alt": "Tikuji-ni-Wadi",
+        "description": "Tikuji-ni-Wadi is an amusement park in Thane, offering a combination of rides, a water park, and a resort."
+      },
+      {
+        "name": "Della Adventure Park",
+        "src": "../maharashtra/della-adventure.jpg",
+        "alt": "Della Adventure Park",
+        "description": "Della Adventure Park is an extreme adventure park located in Lonavala, offering activities like bungee jumping, ATV rides, and zorbing."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+        "src": "../maharashtra/csmvs.jpg",
+        "alt": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+        "description": "CSMVS is a premier art and history museum in Mumbai, showcasing a wide range of artifacts, paintings, and sculptures."
+      },
+      {
+        "name": "Prince of Wales Museum",
+        "src": "../maharashtra/prince-of-wales.jpg",
+        "alt": "Prince of Wales Museum",
+        "description": "Also known as the Chhatrapati Shivaji Maharaj Museum, this museum is renowned for its collection of ancient and medieval artifacts."
+      },
+      {
+        "name": "Dr. Bhau Daji Lad Museum",
+        "src": "../maharashtra/bhau-daji-lad.jpg",
+        "alt": "Dr. Bhau Daji Lad Museum",
+        "description": "Dr. Bhau Daji Lad Museum in Mumbai is known for its collection of decorative arts and cultural artifacts."
+      },
+      {
+        "name": "National Gallery of Modern Art",
+        "src": "../maharashtra/ngma.jpg",
+        "alt": "National Gallery of Modern Art",
+        "description": "NGMA in Mumbai showcases contemporary and modern art from Indian and international artists."
+      },
+      {
+        "name": "Raja Dinkar Kelkar Museum",
+        "src": "../maharashtra/raja-dinkar.jpg",
+        "alt": "Raja Dinkar Kelkar Museum",
+        "description": "This museum in Pune is dedicated to the collection of Raja Dinkar Kelkar, featuring everyday artifacts, sculptures, and decorative arts."
+      },
+      {
+        "name": "Tribal Museum",
+        "src": "../maharashtra/tribal-museum.jpg",
+        "alt": "Tribal Museum",
+        "description": "The Tribal Museum in Pune displays the cultural heritage and artifacts of Maharashtra's tribal communities."
+      }
+    ]
+  },
+  "rajasthan": {
+    "monuments": [
+      {
+        "name": "Hawa Mahal",
+        "src": "../rajasthan/hawa-mahal.jpg",
+        "alt": "Hawa Mahal",
+        "description": "Hawa Mahal, also known as the 'Palace of Winds,' is a five-story palace in Jaipur with 953 small windows, or 'jharokhas,' built to allow royal ladies to observe street festivities."
+      },
+      {
+        "name": "Amber Fort",
+        "src": "../rajasthan/amber-fort.jpg",
+        "alt": "Amber Fort",
+        "description": "Amber Fort is a majestic fort located in Amer, near Jaipur, known for its artistic elements and architecture."
+      },
+      {
+        "name": "Jaisalmer Fort",
+        "src": "../rajasthan/jaisalmer-fort.jpg",
+        "alt": "Jaisalmer Fort",
+        "description": "Jaisalmer Fort, also known as Sonar Quila, is a UNESCO World Heritage site and one of the largest fully preserved fortified cities in the world."
+      },
+      {
+        "name": "City Palace",
+        "src": "../rajasthan/city-palace.jpg",
+        "alt": "City Palace",
+        "description": "City Palace in Jaipur is a complex of courtyards, gardens, and buildings that served as the residence of the Maharaja of Jaipur."
+      },
+      {
+        "name": "Mehrangarh Fort",
+        "src": "../rajasthan/mehrangarh.jpg",
+        "alt": "Mehrangarh Fort",
+        "description": "Mehrangarh Fort, located in Jodhpur, is one of the largest forts in India, known for its massive walls and intricate carvings."
+      },
+      {
+        "name": "Chittorgarh Fort",
+        "src": "../rajasthan/chittorgarh-fort.jpg",
+        "alt": "Chittorgarh Fort",
+        "description": "Chittorgarh Fort is a UNESCO World Heritage site and is one of the largest forts in India, known for its historical significance and architectural grandeur."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Appu Ghar Jaipur",
+        "src": "../rajasthan/appu-ghar.jpg",
+        "alt": "Appu Ghar Jaipur",
+        "description": "Appu Ghar Jaipur is a popular amusement park offering rides, water slides, and family-friendly attractions."
+      },
+      {
+        "name": "Pink Pearl Water Park",
+        "src": "../rajasthan/pink-pearl.jpg",
+        "alt": "Pink Pearl Water Park",
+        "description": "Pink Pearl Water Park is a well-known water and amusement park in Jaipur offering a variety of slides and pools."
+      },
+      {
+        "name": "Birla City Water Park",
+        "src": "../rajasthan/birla-water.jpg",
+        "alt": "Birla City Water Park",
+        "description": "Birla City Water Park in Ajmer is a popular destination for families, offering water slides, wave pools, and other fun attractions."
+      },
+      {
+        "name": "Marvel Water Park",
+        "src": "../rajasthan/marvel-water.jpg",
+        "alt": "Marvel Water Park",
+        "description": "Marvel Water Park in Udaipur is one of the first water parks in Rajasthan and features a range of water-based rides and activities."
+      },
+      {
+        "name": "Dream World Amusement Park",
+        "src": "../rajasthan/dream-world.jpg",
+        "alt": "Dream World Amusement Park",
+        "description": "Located in Kota, Dream World Amusement Park offers thrilling rides and entertainment options for families."
+      },
+      {
+        "name": "Nakhrali Dhani",
+        "src": "../rajasthan/nakhrali-dhani.jpg",
+        "alt": "Nakhrali Dhani",
+        "description": "Nakhrali Dhani in Jaipur offers a unique amusement experience, blending rides and entertainment with traditional Rajasthani culture."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Albert Hall Museum",
+        "src": "../rajasthan/albert-hall.jpg",
+        "alt": "Albert Hall Museum",
+        "description": "Albert Hall Museum in Jaipur is the oldest museum in Rajasthan, showcasing a rich collection of artifacts, paintings, and sculptures."
+      },
+      {
+        "name": "City Palace Museum",
+        "src": "../rajasthan/city-palace-museum.jpg",
+        "alt": "City Palace Museum",
+        "description": "The museum inside Jaipur's City Palace houses a collection of royal artifacts, including costumes, textiles, and weapons."
+      },
+      {
+        "name": "Bagore ki Haveli Museum",
+        "src": "../rajasthan/bagore-ki-haveli.jpg",
+        "alt": "Bagore ki Haveli Museum",
+        "description": "Bagore ki Haveli in Udaipur is a 18th-century haveli turned museum that displays costumes and modern art."
+      },
+      {
+        "name": "Jantar Mantar",
+        "src": "../rajasthan/jantar-mantar.jpg",
+        "alt": "Jantar Mantar",
+        "description": "Jantar Mantar in Jaipur is a collection of 19 architectural astronomical instruments built by Sawai Jai Singh II, a UNESCO World Heritage site."
+      },
+      {
+        "name": "Anokhi Museum of Hand Printing",
+        "src": "../rajasthan/anokhi.jpg",
+        "alt": "Anokhi Museum of Hand Printing",
+        "description": "This museum in Jaipur is dedicated to the traditional art of hand block printing, showcasing exhibits and live demonstrations."
+      },
+      {
+        "name": "Maharana Pratap Museum",
+        "src": "../rajasthan/maharana-pratap-museum.jpg",
+        "alt": "Maharana Pratap Museum",
+        "description": "This museum in Haldighati is dedicated to the life and legacy of Maharana Pratap, a prominent ruler of Mewar."
+      }
+    ]
+  },
+  "uttar pradesh": {
+    "monuments": [
+      {
+        "name": "Taj Mahal",
+        "src": "../uttar-pradesh/taj-mahal.jpg",
+        "alt": "Taj Mahal",
+        "description": "The Taj Mahal in Agra is one of the Seven Wonders of the World and a UNESCO World Heritage site, known for its stunning Mughal architecture."
+      },
+      {
+        "name": "Agra Fort",
+        "src": "../uttar-pradesh/agra-fort.jpg",
+        "alt": "Agra Fort",
+        "description": "Agra Fort is a massive red sandstone fort built by the Mughal Emperor Akbar and is another UNESCO World Heritage site in Agra."
+      },
+      {
+        "name": "Fatehpur Sikri",
+        "src": "../uttar-pradesh/fatehpur-sikri.jpg",
+        "alt": "Fatehpur Sikri",
+        "description": "Fatehpur Sikri is a historical city built by Emperor Akbar, known for its well-preserved Mughal architecture."
+      },
+      {
+        "name": "Bara Imambara",
+        "src": "../uttar-pradesh/bara-imambara.jpg",
+        "alt": "Bara Imambara",
+        "description": "Bara Imambara in Lucknow is a grand complex built by Nawab Asaf-ud-Daula and is famous for its central hall, one of the largest in the world."
+      },
+      {
+        "name": "Sarnath",
+        "src": "../uttar-pradesh/sarnath.jpg",
+        "alt": "Sarnath",
+        "description": "Sarnath is a significant Buddhist pilgrimage site where Gautama Buddha delivered his first sermon."
+      },
+      {
+        "name": "Rumi Darwaza",
+        "src": "../uttar-pradesh/rumi-darwaza.jpg",
+        "alt": "Rumi Darwaza",
+        "description": "Rumi Darwaza in Lucknow is an imposing gateway and a fine example of Awadhi architecture."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Dream World Water Park",
+        "src": "../uttar-pradesh/dream-world.jpg",
+        "alt": "Dream World Water Park",
+        "description": "Dream World Water Park in Lucknow offers a variety of water rides, slides, and pools, making it a popular destination for families."
+      },
+      {
+        "name": "Anandi Water Park",
+        "src": "../uttar-pradesh/anandi-water.jpg",
+        "alt": "Anandi Water Park",
+        "description": "Anandi Water Park is one of the largest water parks in Northern India, located in Lucknow, featuring thrilling water rides and activities."
+      },
+      {
+        "name": "Fun City",
+        "src": "../uttar-pradesh/fun-city.jpg",
+        "alt": "Fun City",
+        "description": "Fun City in Bareilly is an amusement park offering a range of rides and entertainment for children and families."
+      },
+      {
+        "name": "Blue World Theme Park",
+        "src": "../uttar-pradesh/blue-world.jpg",
+        "alt": "Blue World Theme Park",
+        "description": "Blue World in Kanpur is a popular amusement park featuring both thrill rides and water slides."
+      },
+      {
+        "name": "Disney Water Wonder Park",
+        "src": "../uttar-pradesh/disney-water.jpg",
+        "alt": "Disney Water Wonder Park",
+        "description": "Located in Agra, Disney Water Wonder Park offers exciting water slides, pools, and entertainment for all ages."
+      },
+      {
+        "name": "Ganga Barrage Amusement Park",
+        "src": "../uttar-pradesh/ganga-barrage.jpg",
+        "alt": "Ganga Barrage Amusement Park",
+        "description": "Ganga Barrage Amusement Park in Kanpur offers scenic views and a variety of rides and activities."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Salar Jung Museum",
+        "src": "../uttar-pradesh/salar-jung.jpg",
+        "alt": "Salar Jung Museum",
+        "description": "Salar Jung Museum in Hyderabad (though often associated with UP due to the historical connection) features one of the largest collections of art and antiques."
+      },
+      {
+        "name": "State Museum Lucknow",
+        "src": "../uttar-pradesh/state-museum.jpg",
+        "alt": "State Museum Lucknow",
+        "description": "The State Museum in Lucknow showcases artifacts from the region’s rich cultural and historical heritage."
+      },
+      {
+        "name": "Ram Katha Sangrahalay",
+        "src": "../uttar-pradesh/ram-katha.jpg",
+        "alt": "Ram Katha Sangrahalay",
+        "description": "Ram Katha Sangrahalay in Ayodhya is dedicated to the epic Ramayana, featuring exhibits that depict the life and story of Lord Rama."
+      },
+      {
+        "name": "Allahabad Museum",
+        "src": "../uttar-pradesh/allahabad-museum.jpg",
+        "alt": "Allahabad Museum",
+        "description": "Allahabad Museum in Prayagraj has a vast collection of historical artifacts, including sculptures, coins, and paintings."
+      },
+      {
+        "name": "Jahangirabad Palace Museum",
+        "src": "../uttar-pradesh/jahangirabad-museum.jpg",
+        "alt": "Jahangirabad Palace Museum",
+        "description": "Located in Barabanki, this museum showcases royal artifacts from the Jahangirabad estate."
+      },
+      {
+        "name": "Kanpur Sangrahalaya",
+        "src": "../uttar-pradesh/kanpur-sangrahalaya.jpg",
+        "alt": "Kanpur Sangrahalaya",
+        "description": "Kanpur Sangrahalaya is the city's principal museum with exhibits on the city's history and culture."
+      }
+    ]
+  },
+  "punjab": {
+    "monuments": [
+      {
+        "name": "Golden Temple",
+        "src": "../punjab/golden-temple.jpg",
+        "alt": "Golden Temple",
+        "description": "The Golden Temple in Amritsar is the holiest Gurdwara of Sikhism, known for its stunning architecture and spiritual significance."
+      },
+      {
+        "name": "Jallianwala Bagh",
+        "src": "../punjab/jallianwala-bagh.jpg",
+        "alt": "Jallianwala Bagh",
+        "description": "Jallianwala Bagh is a public garden in Amritsar, commemorating the tragic massacre of hundreds of unarmed Indians by British forces in 1919."
+      },
+      {
+        "name": "Sheesh Mahal",
+        "src": "../punjab/sheesh-mahal.jpg",
+        "alt": "Sheesh Mahal",
+        "description": "Sheesh Mahal in Patiala is a palace known for its mirror-work and Indo-Saracenic architecture."
+      },
+      {
+        "name": "Qila Mubarak",
+        "src": "../punjab/qila-mubarak.jpg",
+        "alt": "Qila Mubarak",
+        "description": "Qila Mubarak is a historical fort located in Bathinda and is considered one of the oldest surviving forts in India."
+      },
+      {
+        "name": "Anandpur Sahib",
+        "src": "../punjab/anandpur-sahib.jpg",
+        "alt": "Anandpur Sahib",
+        "description": "Anandpur Sahib is one of the holiest places in Sikhism, known for its historical significance and the celebration of Hola Mohalla."
+      },
+      {
+        "name": "Durgiana Temple",
+        "src": "../punjab/durgiana-temple.jpg",
+        "alt": "Durgiana Temple",
+        "description": "Durgiana Temple in Amritsar is a Hindu temple that resembles the architecture of the Golden Temple, dedicated to Goddess Durga."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Thunder Zone",
+        "src": "../punjab/thunder-zone.jpg",
+        "alt": "Thunder Zone",
+        "description": "Thunder Zone in Mohali is a popular amusement and water park with a variety of rides and slides."
+      },
+      {
+        "name": "Hardy's World",
+        "src": "../punjab/hardys-world.jpg",
+        "alt": "Hardy's World",
+        "description": "Hardy's World in Ludhiana is one of the largest amusement parks in Punjab, featuring rides and water attractions."
+      },
+      {
+        "name": "Suncity Amusement Park",
+        "src": "../punjab/suncity.jpg",
+        "alt": "Suncity Amusement Park",
+        "description": "Suncity Amusement Park in Jalandhar offers thrilling rides and entertainment for children and families."
+      },
+      {
+        "name": "Wonderland Amusement Park",
+        "src": "../punjab/wonderland.jpg",
+        "alt": "Wonderland Amusement Park",
+        "description": "Wonderland in Jalandhar is an amusement park with a range of exciting rides, water slides, and fun activities."
+      },
+      {
+        "name": "Fun City Amusement Park",
+        "src": "../punjab/fun-city.jpg",
+        "alt": "Fun City Amusement Park",
+        "description": "Fun City in Chandigarh is an amusement park with a combination of thrilling rides and water park attractions."
+      },
+      {
+        "name": "Aqua Village",
+        "src": "../punjab/aqua-village.jpg",
+        "alt": "Aqua Village",
+        "description": "Located in Pinjore, Aqua Village offers a variety of water-based attractions for families."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Partition Museum",
+        "src": "../punjab/partition-museum.jpg",
+        "alt": "Partition Museum",
+        "description": "The Partition Museum in Amritsar is dedicated to the Partition of India in 1947, showcasing personal stories, artifacts, and documents."
+      },
+      {
+        "name": "Maharaja Ranjit Singh Museum",
+        "src": "../punjab/ranjit-singh.jpg",
+        "alt": "Maharaja Ranjit Singh Museum",
+        "description": "Located in Amritsar, this museum is dedicated to the life and legacy of Maharaja Ranjit Singh, the founder of the Sikh Empire."
+      },
+      {
+        "name": "Punjab State War Heroes' Memorial & Museum",
+        "src": "../punjab/war-heroes-museum.jpg",
+        "alt": "Punjab State War Heroes' Memorial & Museum",
+        "description": "This museum in Amritsar honors the soldiers of Punjab who sacrificed their lives for the nation."
+      },
+      {
+        "name": "Virasat-e-Khalsa",
+        "src": "../punjab/virasat-e-khalsa.jpg",
+        "alt": "Virasat-e-Khalsa",
+        "description": "Located in Anandpur Sahib, this museum celebrates the history and culture of Sikhism."
+      },
+      {
+        "name": "Shaheed Bhagat Singh Museum",
+        "src": "../punjab/bhagat-singh-museum.jpg",
+        "alt": "Shaheed Bhagat Singh Museum",
+        "description": "Situated in Khatkar Kalan, this museum is dedicated to the life and legacy of freedom fighter Bhagat Singh."
+      },
+      {
+        "name": "Punjab Agricultural University Museum",
+        "src": "../punjab/agricultural-museum.jpg",
+        "alt": "Punjab Agricultural University Museum",
+        "description": "Located in Ludhiana, this museum showcases Punjab's agricultural history and heritage."
+      }
+    ]
+  },
+  "assam": {
+    "monuments": [
+      {
+        "name": "Kamakhya Temple",
+        "src": "../assam/kamakhya-temple.jpg",
+        "alt": "Kamakhya Temple",
+        "description": "Kamakhya Temple in Guwahati is one of the most revered Shakti Peethas in India, dedicated to the goddess Kamakhya."
+      },
+      {
+        "name": "Rang Ghar",
+        "src": "../assam/rang-ghar.jpg",
+        "alt": "Rang Ghar",
+        "description": "Rang Ghar in Sivasagar is an ancient amphitheater built by the Ahom kings and is one of the oldest surviving pavilions in Asia."
+      },
+      {
+        "name": "Sivasagar Sivadol",
+        "src": "../assam/sivadol.jpg",
+        "alt": "Sivasagar Sivadol",
+        "description": "Sivadol is a group of ancient Hindu temples located on the banks of the Sivasagar Tank, dedicated to Lord Shiva."
+      },
+      {
+        "name": "Agnigarh Hill",
+        "src": "../assam/agnigarh-hill.jpg",
+        "alt": "Agnigarh Hill",
+        "description": "Agnigarh Hill in Tezpur is a historical site associated with Hindu mythology, offering scenic views and lush greenery."
+      },
+      {
+        "name": "Talatal Ghar",
+        "src": "../assam/talatal-ghar.jpg",
+        "alt": "Talatal Ghar",
+        "description": "Talatal Ghar in Sivasagar is a historic palace and military base built by the Ahom kings, featuring underground tunnels and architectural marvels."
+      },
+      {
+        "name": "Kareng Ghar",
+        "src": "../assam/kareng-ghar.jpg",
+        "alt": "Kareng Ghar",
+        "description": "Kareng Ghar in Garhgaon is a palace built by the Ahom dynasty and is an important historical landmark."
+      }
+    ],
+    "amusement parks": [
+      {
+        "name": "Accoland",
+        "src": "../assam/accoland.jpg",
+        "alt": "Accoland",
+        "description": "Accoland in Guwahati is the largest amusement and water park in Northeast India, featuring water slides, rides, and entertainment."
+      },
+      {
+        "name": "Greenwood Resort",
+        "src": "../assam/greenwood-resort.jpg",
+        "alt": "Greenwood Resort",
+        "description": "Greenwood Resort near Guwahati offers a peaceful getaway with family-friendly activities, a water park, and scenic surroundings."
+      },
+      {
+        "name": "Dreamland Amusement Park",
+        "src": "../assam/dreamland.jpg",
+        "alt": "Dreamland Amusement Park",
+        "description": "Dreamland Amusement Park in Guwahati offers a mix of exciting rides, water slides, and family entertainment."
+      },
+      {
+        "name": "Blue Paradise Water Park",
+        "src": "../assam/blue-paradise.jpg",
+        "alt": "Blue Paradise Water Park",
+        "description": "Blue Paradise Water Park is a fun-filled water park located in Nalbari, offering a variety of slides and pools."
+      },
+      {
+        "name": "Wonderland Amusement Park",
+        "src": "../assam/wonderland.jpg",
+        "alt": "Wonderland Amusement Park",
+        "description": "Wonderland Amusement Park in Guwahati offers a range of water-based activities and rides."
+      },
+      {
+        "name": "Bhuvaneshwari Park",
+        "src": "../assam/bhuvaneshwari.jpg",
+        "alt": "Bhuvaneshwari Park",
+        "description": "Bhuvaneshwari Park in Guwahati offers scenic views and family-friendly activities, including a small amusement park."
+      }
+    ],
+    "museums": [
+      {
+        "name": "Assam State Museum",
+        "src": "../assam/assam-state-museum.jpg",
+        "alt": "Assam State Museum",
+        "description": "The Assam State Museum in Guwahati is one of the oldest museums in Northeast India, showcasing artifacts and exhibits related to Assam's history, culture, and heritage."
+      },
+      {
+        "name": "Srimanta Sankardev Kalakshetra",
+        "src": "../assam/kalakshetra.jpg",
+        "alt": "Srimanta Sankardev Kalakshetra",
+        "description": "Srimanta Sankardev Kalakshetra in Guwahati is a cultural institution that celebrates Assamese art, culture, and heritage."
+      },
+      {
+        "name": "Tezpur Museum",
+        "src": "../assam/tezpur-museum.jpg",
+        "alt": "Tezpur Museum",
+        "description": "Tezpur Museum is a small museum that showcases artifacts and history related to the Tezpur region."
+      },
+      {
+        "name": "Bishnu Rabha Smriti Museum",
+        "src": "../assam/bishnu-rabha-museum.jpg",
+        "alt": "Bishnu Rabha Smriti Museum",
+        "description": "This museum is dedicated to Bishnu Prasad Rabha, an Assamese cultural icon, and features his works and contributions."
+      },
+      {
+        "name": "Dibrugarh University Museum",
+        "src": "../assam/dibrugarh-museum.jpg",
+        "alt": "Dibrugarh University Museum",
+        "description": "Located on the campus of Dibrugarh University, this museum exhibits cultural and historical artifacts from the region."
+      },
+      {
+        "name": "Assam Rajyik State Museum",
+        "src": "../assam/rajyik-state-museum.jpg",
+        "alt": "Assam Rajyik State Museum",
+        "description": "Situated in Guwahati, the Assam Rajyik State Museum is known for its diverse collection of sculptures, tribal artifacts, and ethnographic exhibits."
+      }
+    ]
+  }
+}
